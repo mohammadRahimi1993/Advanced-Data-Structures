@@ -5,7 +5,7 @@ This repository contains the materials for the Advanced Data Structures course o
 </div>
 
 ```bibtex
-@article{PassosPapa2020,
+@article      {PassosPapa2020,
   author    = {Leandro Aparecido Passos and João Paulo Papa},
   title     = {A metaheuristic-driven approach to fine-tune Deep Boltzmann Machines},
   journal   = {Applied Soft Computing},
